@@ -1,5 +1,7 @@
 # CST8915 Final Project: Cloud-Native App for Best Buy
 
+[Link to video demo](https://youtu.be/oAaQmsPn1eM)
+
 ## Architecture Diagram
 
 ![Architecture Diagram](./Diagrams/architecture-diagram.png)
